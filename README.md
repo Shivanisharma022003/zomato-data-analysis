@@ -13,7 +13,7 @@ and city-wise restaurant performance.
 - **SQL** — Business queries & aggregations
 - **Power BI** — Interactive dashboard
 - **Excel** — Data cleaning & preprocessing
-- 
+
 ## 🔄 Workflow
 Data Cleaning (Excel) → SQL Analysis → Python EDA → Power BI Dashboard
 
