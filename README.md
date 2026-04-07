@@ -13,9 +13,12 @@ and city-wise restaurant performance.
 - **SQL** — Business queries & aggregations
 - **Power BI** — Interactive dashboard
 - **Excel** — Data cleaning & preprocessing
+- 
+## 🔄 Workflow
+Data Cleaning (Excel) → SQL Analysis → Python EDA → Power BI Dashboard
 
 - ## 📈 Visualizations
-
+ 
 ### 🏙️ Top 10 Cities on Zomato (India)
 ![Top Cities](top_cities.png)
 
@@ -46,6 +49,11 @@ and city-wise restaurant performance.
 - Premium price-range restaurants average **3.57 rating** vs 1.93 for budget
 - Only ~22% of restaurants offer online delivery — a major growth opportunity
 - North Indian cuisine has the highest count but faces tough rating competition
+
+- ## 💼 Business Impact
+- Helps Zomato identify high-performing cities and cuisines  
+- Supports decision-making for expanding online delivery services  
+- Enables better pricing strategies based on customer rating trends  
 
 ## 🚀 How to Run
 1. Open `Python EDA notebook` in Jupyter Notebook or Google Colab
