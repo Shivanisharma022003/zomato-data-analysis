@@ -1,5 +1,8 @@
 # 🍽️ Zomato Restaurant Data Analysis
 
+## 📌 Problem Statement
+In a competitive food delivery market, understanding customer preferences and restaurant performance is crucial. This project analyzes Zomato data to uncover insights on ratings, pricing, delivery trends, and cuisine popularity to support data-driven business decisions.
+
 ## 📌 Project Overview
 End-to-end data analytics project on 9,500+ Zomato restaurant records 
 to uncover insights on pricing, delivery trends, cuisine popularity, 
